@@ -1,4 +1,4 @@
-#AutoAirport
+# AutoAirport
 A simple script for automatic check-in.  
 一个用于机场批量签到的简易脚本.  
 
